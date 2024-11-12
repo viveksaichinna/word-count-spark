@@ -1,5 +1,3 @@
-# README.md
-
 ## Simple Word Count on AWS EC2/LightSail using PySpark with Data from S3
 
 ### Goal
